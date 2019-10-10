@@ -1,4 +1,4 @@
 print("Give two numbers :")
-a = int(input())
+x = int(input())
 b = int(input())
-print(a-b)
+print(x-b)
